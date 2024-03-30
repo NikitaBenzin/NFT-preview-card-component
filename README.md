@@ -1,0 +1,1 @@
+- preview: https://nikitabenzin.github.io/NFT-preview-card-component/
